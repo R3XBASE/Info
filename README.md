@@ -38,14 +38,6 @@ $ whoami
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="65" height="65" />
         <br>JavaScript
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="65" height="65" />
-        <br>Golang
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="65" height="65" />
-        <br>PHP
-      </td>
     </tr>
   </table>
   
@@ -71,20 +63,6 @@ $ whoami
   [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
   [![Metasploit](https://img.shields.io/badge/-Metasploit-E95420?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-  [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-  
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/R3XBASE/project-name">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=R3XBASE&repo=project-name&theme=chartreuse-dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/R3XBASE/another-project">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=R3XBASE&repo=another-project&theme=chartreuse-dark&hide_border=true" />
-  </a>
 </div>
 
 ## 🔥 Current Activity
