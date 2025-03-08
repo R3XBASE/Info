@@ -1,7 +1,7 @@
-# 👨‍💻 R3XBASE | Security Researcher
+#  R3XBASE | WHOAMI
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://github.com/R3XBASE/R3XBASE/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Security+Researcher;Ethical+Hacker;Bug+Hunter;Digital+Guardian)](https://git.io/typing-svg)
 </div>
@@ -21,8 +21,8 @@ $ whoami
 ## 📊 Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=R3XBASE&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=R3XBASE&theme=chartreuse-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R3XBASE&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=R3XBASE&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ## 💻 Most Used Languages
@@ -31,19 +31,19 @@ $ whoami
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="65" height="65" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="Golang" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="65" height="65" />
         <br>Golang
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="65" height="65" />
         <br>PHP
       </td>
     </tr>
