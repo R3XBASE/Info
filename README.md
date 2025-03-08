@@ -1,4 +1,4 @@
-# R3XBASE | WHOAMI
+# 👨‍💻 R3XBASE | Security Researcher
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -25,6 +25,41 @@ $ whoami
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=R3XBASE&theme=chartreuse-dark&hide_border=true" />
 </p>
 
+## 💻 Most Used Languages
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="Golang" width="65" height="65" />
+        <br>Golang
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
+        <br>PHP
+      </td>
+    </tr>
+  </table>
+  
+  ```python
+  # Skills levels visualization
+  skills = {
+      "Python": "███████████ 95%",
+      "JavaScript": "████████░░ 80%",
+      "Golang": "███████░░░ 70%",
+      "PHP": "██████░░░░ 60%",
+  }
+  ```
+</div>
+
 ## 🧰 Tools & Skills
 
 <div align="center">
@@ -35,6 +70,9 @@ $ whoami
   [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
   [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
   [![Metasploit](https://img.shields.io/badge/-Metasploit-E95420?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+  [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
   
 </div>
 
