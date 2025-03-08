@@ -1,7 +1,7 @@
 #  R3XBASE | WHOAMI
 
 <div align="center">
-  <img src="https://github.com/R3XBASE/R3XBASE/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="[https://github.com/R3XBASE/R3XBASE/blob/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" width="100%" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Security+Researcher;Ethical+Hacker;Bug+Hunter;Digital+Guardian)](https://git.io/typing-svg)
 </div>
