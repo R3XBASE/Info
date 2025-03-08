@@ -41,16 +41,7 @@ $ whoami
     </tr>
   </table>
   
-  ```python
-  # Skills levels visualization
-  skills = {
-      "Python": "███████████ 95%",
-      "JavaScript": "████████░░ 80%",
-      "Golang": "███████░░░ 70%",
-      "PHP": "██████░░░░ 60%",
-  }
-  ```
-</div>
+![R3XBASE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R3XBASE&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🧰 Tools & Skills
 
